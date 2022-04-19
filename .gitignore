@@ -1,0 +1,7 @@
+/.venv/
+images/
+images copy/
+output/
+ManuscriptMon
+*.xlsx
+*/__pycache__/
