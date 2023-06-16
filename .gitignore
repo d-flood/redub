@@ -6,3 +6,4 @@ ManuscriptMon
 *.xlsx
 */__pycache__/
 venv/
+# /__pycache__/
